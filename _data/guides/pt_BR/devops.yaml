@@ -14,7 +14,7 @@ expertise:
         priority: 7
       - cloud-fundamentals:
         priority: 9
-      - scripting:
+      - shell-scripting:
         priority: 9
       - computer-networks-fundamentals:
         priority: 8
@@ -49,6 +49,9 @@ collaboration:
       - design-patterns: 
         priority: 6
       - python-fundamentals:
+        priority: 7
+        optional: true
+      - go-fundamentals:
         priority: 7
         optional: true
       - java-fundamentals:

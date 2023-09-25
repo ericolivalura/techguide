@@ -33,7 +33,11 @@
    - Conhecer a diferença entre IaaS, PaaS e SaaS
    - Conhecer os maiores provedores de cloud
    - Especializar-se em algum provedor
-
+- [ ] **Shell Scripting**:
+   - Automatizar tarefas repetitivas utilizando as linguagens disponibilizadas pelo terminal.
+   - Criação de tarefas com execução automática
+   - Automatizar a configuração e instalação de aplicações em novos sistemas
+   - Usar o PowerShell
 - [ ] **Redes de Computadores - Fundamentos**:
    - Rede de computadores é uma malha que interliga milhares de sistemas computacionais para a transmissão de dados. Também conhecidos como nós, esses dispositivos interconectados enviam, recebem e trocam tráfego de dados, voz e vídeo, graças ao hardware e software que compõe o ambiente.
    - Configurações de redes são essenciais para que seja possível acessar uma aplicação, principalmente se ela estiver na nuvem.
@@ -126,6 +130,18 @@
    - Obter dados de uma API
    - Criar construtores
    - Funções anônimas
+- [ ] **Go (GoLang) - Fundamentos**:
+   - Go é uma linguagem de programação de alto nível compilada e estaticamente tipada, desenvolvida no Google. Ela é sintaticamente semelhante ao C, mas também tem memory safety, coletor de lixo, tipagem estrutural e concorrência.
+   - Entender a sua sintaxe
+   - Conhecer os tipos primitivos
+   - Declarar e usar variáveis e constantes
+   - Usar estruturas condicionais (if, else)
+   - Usar estruturas de repetição e laços (while, for)
+   - Usar funções, passando parâmetros e argumentos
+   - Implementando métodos e reutilizando eles
+   - Tratamento de erros
+   - Convenções de código
+   - Manipular Coleções, arrays e listas
 - [ ] **Java - Fundamentos**:
    - Java é uma linguagem de programação amplamente usada para codificar aplicações Web. Java é uma linguagem multiplataforma, orientada a objetos e centrada em rede que pode ser usada como uma plataforma em si. É uma linguagem de programação rápida, segura e confiável para codificar tudo, desde aplicações móveis e software empresarial até aplicações de big data e tecnologias do servidor.
    - Conhecer os tipos primitivos
